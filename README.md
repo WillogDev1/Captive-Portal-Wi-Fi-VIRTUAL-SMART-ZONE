@@ -18,7 +18,6 @@
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-- [Conclusão](#conclusão)
 
 # Sobre o projeto
 
@@ -54,7 +53,7 @@ O portal solicita o numero celular do visitante e envia um código de validção
 - `NodeJs`
 - `Api Do Twilio para Sms`
 
-# Autores
+# Pessoas Desenvolvedoras do Projeto
 
 | [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |
 | :---: | :---: | :---: |
