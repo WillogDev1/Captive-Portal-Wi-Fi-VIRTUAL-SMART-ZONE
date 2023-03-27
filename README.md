@@ -56,6 +56,7 @@ O portal solicita o numero celular do visitante e envia um código de validção
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/WillogDev1)
+| [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) | 
+ [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1)
 | :---: | :---: | :---: |
 
