@@ -1,1 +1,1 @@
-Teste
+# Wi-Fi Portal Captive Ruckus Virtual Smart Zone
