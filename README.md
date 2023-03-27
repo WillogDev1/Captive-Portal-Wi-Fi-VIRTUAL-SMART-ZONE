@@ -12,8 +12,7 @@
 
 * [Título e Imagem de capa](#Wi-Fi-Portal-Captive-Ruckus-Virtual-Smart-Zone)
 * [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
+* [Descrição do Projeto](#dSobre-o-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
@@ -22,3 +21,14 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+
+# Sobre o projeto
+
+Criação de um portal acesso de visitantes em uma rede wi-fi que utiliza Ruckus Virtual Smart Zone Ver.6.2.
+
+O portal solicita o numero celular do visitante e envia um código de validção para verificar a veracidade. O único dado salvo é o proprio número de telefone, na controladora Ruckus.
+
+# Status do Projeto
+
+ :construction: Projeto em construção :construction:
