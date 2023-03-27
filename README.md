@@ -1,4 +1,5 @@
 # Wi-Fi Portal Captive Ruckus Virtual Smart Zone
+
 <p align="center">
 <img src="https://img.shields.io/badge/version-1.0-blue"/>
 <img src="https://img.shields.io/badge/-HTML-green"/>
@@ -7,21 +8,17 @@
 <img src="https://img.shields.io/badge/-Ruckus%20VSZ-orange"/>
 </p>
 
+# Índice
 
-# Índice 
-
-* [Título e Imagem de capa](#Wi-Fi-Portal-Captive-Ruckus-Virtual-Smart-Zone)
-* [Badges](#badges)
-* [Descrição do Projeto](#Sobre-o-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
+- [Título e Imagem de capa](#Wi-Fi-Portal-Captive-Ruckus-Virtual-Smart-Zone)
+- [Badges](#badges)
+- [Descrição do Projeto](#Sobre-o-projeto)
+- [Status do Projeto](#status-do-Projeto)
+- [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-do-projeto)
+- [Acesso ao Projeto](#acesso-ao-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+- [Conclusão](#conclusão)
 
 # Sobre o projeto
 
@@ -50,10 +47,15 @@ O portal solicita o numero celular do visitante e envia um código de validção
 **Instale Nodejs e as seguintes dependencias dentro da pasta: express, ejs,**
 
 # Tecnologias utilizadas
-<h4>
-    <ul>
-        <li>
-            HTML
-        </li>
-    </ul>
-</h4>
+
+- `Html`
+- `CSS`
+- `JavaScript`
+- `NodeJs`
+- `Api Do Twilio para Sms`
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/WillogDev1)
+| :---: | :---: | :---: |
+
