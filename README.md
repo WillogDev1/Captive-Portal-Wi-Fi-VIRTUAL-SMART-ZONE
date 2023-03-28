@@ -55,6 +55,5 @@ O portal solicita o numero celular do visitante e envia um código de validção
 
 # Pessoas Desenvolvedoras do Projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |  [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |
-| :---: | :---: | :---: |
-
+| [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) | [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) | [<img src="https://avatars.githubusercontent.com/u/97992826?v=4" width=115><br><sub>William Omar Gibram</sub>](https://github.com/WillogDev1) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
