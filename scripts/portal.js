@@ -1,4 +1,9 @@
-function get_param(name) {
+
+
+/* TODO: Inserir um IF onde caso o Token que foi inserido pelo Usuario
+for igual ao enviado, libera wi-fi, caso não, Envia aviso
+*/
+ function get_param(name) {
   if (location.href.indexOf("?") >= 0) {
     var query = location.href.split("?")[1];
     var params = query.split("&");
@@ -18,6 +23,12 @@ function btnEnviaSolicitacaoParaRuckus() {
   );
 }
 
+
+
+
+
+
+// Mascara para o numero telefone
 /* Máscaras ER */
 function mascara(o,f){
   v_obj=o
