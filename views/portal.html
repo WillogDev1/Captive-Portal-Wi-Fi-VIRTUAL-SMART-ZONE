@@ -1,19 +1,19 @@
 <html>
 <head><title>Portal Wi-Fi</title>
-<link rel="stylesheet" href="C:\Users\Will\Documents\projeto\wifi_portal_ruckus\styles\portal.css">
+<link rel="stylesheet" href="http://127.0.0.1:5500/styles/portal.css">
 </head>
 <body style="font-size:24pt;">
 <br/><center><h2>Portal Wi-Fi</h2>
 <p id="variavel"></p>
 <table style="font-size:24pt;">
-    <tr><td>Username:</td><td><input type="text" name="username" style="font-size:24pt"><br/></td></tr>
-    <tr><td>Password:</td><td><input type="password": name="password" style="font-size:24pt"><br/></td></tr>
-    <tr><td></td><td><input onclick="btnEnviaSolicitacaoParaRuckus()" type= "submit" value="Login" style="font-size:24pt;"></form></td></tr>
+    <tr><td>Celular</td><td><input type="text" name="telefone" id="telefone" placeholder="Digite o seu celular" maxlength="15" style="font-size:18pt"><button style="font-size:18pt">Enviar!</button><br/></td></tr>
 </table>
+<div hidden style="display: none;">
+    <tr><td>Token</td><td><input type="password": name="password" style="font-size:24pt"><br/></td></tr>
+    <tr><td></td><td><input onclick="btnEnviaSolicitacaoParaRuckus()" type= "submit" value="Login" style="font-size:24pt;"></form></td></tr>
+</div>
 </form>
-
 </center>
-<button onclick="btnEnviaSolicitacaoParaRuckus()">Valida</button>
 </body>
-<script src="C:\Users\Will\Documents\projeto\wifi_portal_ruckus\scripts\portal.js"></script>
+<script src="http://127.0.0.1:5500/scripts/portal.js"></script>
 </html>
